@@ -1,7 +1,5 @@
 # ICS 381 - Principles of Artificial Intelligence
 
-### Instructor: Dr. Moataz Ahmed
-
 ### Semester: 241
 
 ### Mini Projects
